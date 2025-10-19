@@ -8,19 +8,17 @@
     
 <p align="left"> I started my professional journey as a Technical Support Engineer, which has inspired me to pursue a career in software engineering .
   
-<p align="left"> 🏆 My certification: Google Cybersecurity Certificate🏆
+<p align="left"> 🏆 Certification loading: Google Cybersecurity Certificate🏆
   
 <p align="left">🎓 2º year of Multi-Platform Application Development
- <p align="left"> Currently, I am expanding my knowledge  💻 Java,Python,Cybersecurity,Data Science and A.I.
-  </p> I am looking for new opportunities in IT industry and also to collaborate on challenging projects.
-  
-   <p style="display: flex; align-items: center; margin: 0;">
-     
- 📫 Contact: <a href="mailto:lavinia_bacaru@protonmail.com" style="margin-left: 10px;">
+<p align="left"> Currently, I am expanding my knowledge  💻 Python,Java,Cybersecurity,Data Science and A.I.
+</p> I am seeking new opportunities in the IT industry and looking forward to contribute to challenging and innovative projects.
+   
+    
+ <p align="center"> Contact : <a href="mailto:lavinia_bacaru@protonmail.com" style="margin-center: 20px;">
     <img src="https://img.shields.io/badge/Email-Me%20via%20ProtonMail-blue" alt="ProtonMail" />
-  </a> lavinia_bacaru@protonmail.com  
-  </a>
-  </p>
+  </a> 📫 lavinia_bacaru@protonmail.com  
+
 
   
   ### Tech Stack I work with:
@@ -68,6 +66,11 @@
 <h3 align="center">
  </div>
 
+<p style="display: flex; align-items: center; margin: 0;">
+   <p align="center">
+  <a href="https://github.com/codewithlavi" target="_blank">
+    <img src="https://img.shields.io/github/followers/codewithlavi?label=Follow%20Me&style=social" alt="Follow Me">
+  </a>
  <p align = "center">
 <img src = "https://komarev.com/ghpvc/?username=codewithlavi&style=plastic&color=blueviolet" alt = "Profile Views"/>
 
@@ -78,8 +81,6 @@
 </div>
 
   
-
-
 <p align="center">
 <a href="https://github.com/codewithlavi">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=codewithlavi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
