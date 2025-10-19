@@ -7,17 +7,13 @@
   <h2> 👩‍💻 &nbsp;About Me : </h2>
     
 <p align="left"> I started my professional journey as a Technical Support Engineer, which has inspired me to pursue a career in software engineering .
+<p align="left"> Currently, I am doing Internship and also expanding my knowledge  💻 Python,Java,Cybersecurity,Data Science and A.I.
   
-<p align="left"> 🏆 Certification loading: Google Cybersecurity Certificate🏆
-  
-<p align="left">🎓 2º year of Multi-Platform Application Development
-<p align="left"> Currently, I am expanding my knowledge  💻 Python,Java,Cybersecurity,Data Science and A.I.
-</p> I am seeking new opportunities in the IT industry and looking forward to contribute to challenging and innovative projects.
-   
-    
- <p align="center"> Contact : <a href="mailto:lavinia_bacaru@protonmail.com" style="margin-center: 20px;">
-    <img src="https://img.shields.io/badge/Email-Me%20via%20ProtonMail-blue" alt="ProtonMail" />
-  </a> 📫 lavinia_bacaru@protonmail.com  
+<p align="left"> 🏆 Certification in progress : Google Cybersecurity Certificate🏆
+
+<p align="left"> Contact : <a href="mailto:lavinia_bacaru@protonmail.com" style="margin-left: 20 px;">
+<img src="https://img.shields.io/badge/Email-Me%20via%20ProtonMail-blue" alt="ProtonMail" />
+</a> 📫 lavinia_bacaru@protonmail.com  
 
 
   
