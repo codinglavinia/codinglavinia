@@ -78,8 +78,8 @@
 
   
 <p align="center">
-<a href="https://github.com/codewithlavi">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=codewithlavi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=codewithlavi&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/lavinia-devsec">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lavinia-devsec&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lavinia-devsec&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </div>
