@@ -65,7 +65,7 @@
 <p style="display: flex; align-items: center; margin: 0;">
    <p align="center">
   <a href="https://github.com/codewithlavi" target="_blank">
-    <img src="https://img.shields.io/github/followers/codewithlavi?label=Follow%20Me&style=social" alt="Follow Me">
+    <img src="https://img.shields.io/github/followers/lavinia-devsec?label=Follow%20Me&style=social" alt="Follow Me">
   </a>
  <p align = "center">
 <img src = "https://komarev.com/ghpvc/?username=codewithlavi&style=plastic&color=blueviolet" alt = "Profile Views"/>
