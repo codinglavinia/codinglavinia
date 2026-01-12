@@ -9,7 +9,7 @@
 <p align="left"> I started my professional journey as a Technical Support Engineer, which has inspired me to pursue a career in software engineering .
 <p align="left"> Currently, I am doing Internship and also expanding my knowledge  💻 Python,Java,Cybersecurity,Data Science and A.I.
   
-<p align="left"> 🏆 Certification in progress : Google Cybersecurity Certificate🏆
+<p align="left"> 🏆Python Certification from Google🏆
 
 <p align="left"> Contact : <a href="mailto:lavinia_bacaru@protonmail.com" style="margin-left: 20 px;">
 <img src="https://img.shields.io/badge/Email-Me%20via%20ProtonMail-blue" alt="ProtonMail" />
@@ -64,11 +64,11 @@
 
 <p style="display: flex; align-items: center; margin: 0;">
    <p align="center">
-  <a href="https://github.com/codewithlavi" target="_blank">
-    <img src="https://img.shields.io/github/followers/lavinia-devsec?label=Follow%20Me&style=social" alt="Follow Me">
+  <a href="https://github.com/codinglavinia" target="_blank">
+    <img src="https://img.shields.io/github/followers/codinglavinia?label=Follow%20Me&style=social" alt="Follow Me">
   </a>
  <p align = "center">
-<img src = "https://komarev.com/ghpvc/?username=codewithlavi&style=plastic&color=blueviolet" alt = "Profile Views"/>
+<img src = "https://komarev.com/ghpvc/?username=codinglavinia&style=plastic&color=blueviolet" alt = "Profile Views"/>
 
  <!-- FOOTER -->
 <div align="center" width="100">
@@ -78,8 +78,8 @@
 
   
 <p align="center">
-<a href="https://github.com/lavinia-devsec">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lavinia-devsec&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lavinia-devsec&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/codinglavinia">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=codinglavinia&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=codinglavinia&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </div>
