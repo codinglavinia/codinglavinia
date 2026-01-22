@@ -1,14 +1,11 @@
 <!-- If you enjoyed this, please consider giving a star to the repository on my GitHub profile. -->
 <!-- HEADER -->
 <div align="center" width="100">
-  <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=250&section=header&text=Software%20Developer%20&fontSize=30&type=waving&fontColor=fefefe&&animation=fadeIn"
-  alt="header"/>
 </div>
-  <h2> 👩‍💻 &nbsp;About Me : </h2>
+  <h2>👩‍💻&nbsp;About Me : </h2>
     
 <p align="left"> I started my professional journey as a Technical Support Engineer, which has inspired me to pursue a career in software engineering .
-<p align="left"> Currently, I am doing Internship and also expanding my knowledge  💻 Python,Java,Cybersecurity,Data Science and A.I.
-  
+<p align="left"> I am currently working on my final project👩‍💻.  
 <p align="left"> 🏆Python Certification from Google🏆
 
 <p align="left"> Contact : <a href="mailto:lavinia_bacaru@protonmail.com" style="margin-left: 20 px;">
@@ -50,7 +47,12 @@
    <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white">
    <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="40" height="40"/>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-  <img src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white"/>
+   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+   <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+   <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+   <img src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="40" height="40" />
   <img src="https://img.shields.io/badge/kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/>
@@ -83,3 +85,7 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=codinglavinia&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </div>
+
+ 
+<p align="center"> ⭐ <strong>Do consider giving a star to my repositories!</strong>⭐
+
