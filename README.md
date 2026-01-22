@@ -1,19 +1,19 @@
 <!-- If you enjoyed this, please consider giving a star to the repository on my GitHub profile. -->
 <!-- HEADER -->
 <div align="center" width="100">
+  <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=250&section=header&text=Software%20Developer%20&fontSize=30&type=waving&fontColor=fefefe&&animation=fadeIn"
+  alt="header"/>
 </div>
   <h2>👩‍💻&nbsp;About Me : </h2>
     
-<p align="left"> I started my professional journey as a Technical Support Engineer, which has inspired me to pursue a career in software engineering .
-<p align="left"> I am currently working on my final project👩‍💻.  
-<p align="left"> 🏆Python Certification from Google🏆
+<p align="left"> I began my career as a Technical Support Engineer, gaining real-world problem-solving experience that allowed me to shift into software engineering.
+<p align='center'>I am focusing on building clean, maintainable and scalable solutions while actively learning and developing projects with modern technologies.
+<p align="left"> At the moment,I am working on my final CFGS project(TFG D.A.M).
 
 <p align="left"> Contact : <a href="mailto:lavinia_bacaru@protonmail.com" style="margin-left: 20 px;">
 <img src="https://img.shields.io/badge/Email-Me%20via%20ProtonMail-blue" alt="ProtonMail" />
 </a> 📫 lavinia_bacaru@protonmail.com  
 
-
-  
   ### Tech Stack I work with:
   <span> 
   <p align='center'>
