@@ -8,7 +8,6 @@
     
 <p align="left"> I began my career as a Technical Support Engineer, gaining real-world problem-solving experience that allowed me to shift into software engineering.
 <p align='left'>I am focusing on building clean, maintainable and scalable solutions while actively learning and developing projects with modern technologies.
-<p align="left"> At the moment,I am working on my final coding project:TFG D.A.M.
 
 <p align="left"> Contact : <a href="mailto:lavinia_bacaru@protonmail.com" style="margin-left: 20 px;">
 <img src="https://img.shields.io/badge/Email-Me%20via%20ProtonMail-blue" alt="ProtonMail" />
