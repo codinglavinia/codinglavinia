@@ -6,8 +6,9 @@
 </div>
 <h2>👩‍💻&nbsp;About Me : </h2>
     
-<p align="left"> I began my career as a Technical Support Engineer, gaining problem-solving experience that allowed me to shift into software engineering.
-<p align='left'>I am focusing on building clean, maintainable and scalable solutions while actively learning and developing projects with modern technologies.
+<p align="left"> I began my career as a Technical Support Engineer, gaining experience that allowed me to shift into software engineering.
+<p align='left'>Currently, Im focused on building  maintainable software while expanding my expertise in <strong>Software Development,Cybersecurity and A.I</strong>.
+</p>
 
 <p align="left"> Contact : <a href="mailto:lavinia_bacaru@protonmail.com" style="margin-left: 20 px;">
 <img src="https://img.shields.io/badge/Email-Me%20via%20ProtonMail-blue" alt="ProtonMail" />
