@@ -15,9 +15,7 @@
 
 <h3 align="center">Programming Languages: </h3>
 <p align="center">
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/C%20programming-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white"
-      alt="c"/>
+
   </a>
   <a href="https://www.java.com" target="_blank"> 
     <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white" 
@@ -46,14 +44,6 @@
       <a href="https://getbootstrap.com" target="_blank">
     <img src="https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"
       alt="bootstrap"/>
-  </a>
-  <a href="https://babeljs.io/" target="_blank">
-    <img src="https://img.shields.io/badge/babel-F9DC3E.svg?style=for-the-badge&logo=babel&logoColor=black" alt="babel"/> 
-  </a>
-  <a href="https://bulma.io/" target="_blank">
-    <img src="https://img.shields.io/badge/bulma-00D1B2.svg?style=for-the-badge&logo=bulma&logoColor=white"
-      alt="bulma"/>
-  </a>
   <a href="https://www.gatsbyjs.com/" target="_blank">
     <img src="https://img.shields.io/badge/gatsbyjs-663399.svg?style=for-the-badge&logo=gatsby&logoColor=white" alt="gatsby" />
   </a>
@@ -172,8 +162,6 @@
 
 <h3 align="center">Preferred IDEs and Tools</h3>
 <p align="center"> 
-  <a href="https://eclipse.org" target="_blank">
-    <img src="https://img.shields.io/badge/eclipse-2C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white" alt="eclipse IDE"/> 
   </a>
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> 
