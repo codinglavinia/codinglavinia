@@ -181,11 +181,6 @@
 </a>
 </p>
 
-</p><p align="center">
-  <a href="https://github.com/codinglavinia" target="_blank">
-    <img src="https://img.shields.io/github/followers/codinglavinia?label=Follow%20Me&style=social" alt="Follow Me">
-  </a>
-</p>
  <p align = "center">
 <img src = "https://komarev.com/ghpvc/?username=codinglavinia&style=plastic&color=blueviolet" alt = "Profile Views"/>
 
