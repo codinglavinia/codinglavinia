@@ -147,7 +147,7 @@
   <a href="https://github.com/ELanza-48" target="_blank">
     <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
   </a>
-  <a href="https://gitlab.com/Elanza-48" target="_blank">
+  <a href="https://github.com/codinglavinia">
     <img src="https://img.shields.io/badge/gitlab-181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"
       alt="git"/>
   </a>
@@ -181,10 +181,11 @@
 </a>
 </p>
 
-   <p align="center">
+</p><p align="center">
   <a href="https://github.com/codinglavinia" target="_blank">
     <img src="https://img.shields.io/github/followers/codinglavinia?label=Follow%20Me&style=social" alt="Follow Me">
   </a>
+</p>
  <p align = "center">
 <img src = "https://komarev.com/ghpvc/?username=codinglavinia&style=plastic&color=blueviolet" alt = "Profile Views"/>
 
