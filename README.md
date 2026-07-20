@@ -6,64 +6,59 @@
 </div>
   <h2>👩‍💻&nbsp;About Me : </h2>
     
-<p align="left"> I began my career as a Technical Support Engineer gaining problem-solving experience that allowed me to shift into software engineering.
+<p align="left"> Hi, I'm Lavinia a Developer who started out as a Technical Support Engineer with moore than 4 years experience where I sharpened my analytical and problem-solving skills.</p>
+<p align="left">Today, I'm passionate about building intelligent, secure and scalable applications.</p>
 <p align='left'> I’m continuously expanding my expertise in Software Development, Cybersecurity and Artificial Intelligence .
 
+</p>
 <p align="left"> Contact : <a href="mailto:lavinia_bacaru@protonmail.com" style="margin-left: 20 px;">
 <img src="https://img.shields.io/badge/Email-Me%20via%20ProtonMail-blue" alt="ProtonMail" /> 
 
 
-<h3 align="center">Programming Languages: </h3>
+<h3 align="center">My Tech Stack: </h3>
 <p align="center">
-
+  <img src="https://img.shields.io/badge/Cross--Platform%20Development-0078D4?style=for-the-badge&logo=android&logoColor=white" alt="Cross-Platform Development"/>
+  <img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="Cybersecurity"/>
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Artificial Intelligence"/>
+<h3 align="center">Frontend : </h3>
+<p align="left">
+  <a href="https://www.w3.org/html/" target="_blank">
+    <img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/>
   </a>
-  <a href="https://www.java.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white" 
-      alt="java"/> 
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/>
   </a>
+  <a href="https://getbootstrap.com" target="_blank">
+    <img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+    </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"
       alt="javascript"/> 
   </a>
-  <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
-      alt="html5"/> 
+  <a href="https://jquery.com/" target="_blank">
+    <img src="https://img.shields.io/badge/jQuery-0769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery"/>
   </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
-      alt="css3"/>
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white"
-      alt="typescript"/>
-  </a>
-</p>
-
-<h3 align="center">Frontend : </h3>
-<p align="center">
-      <a href="https://getbootstrap.com" target="_blank">
-    <img src="https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"
-      alt="bootstrap"/>
-<a href="https://react.dev/">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-</a>
-   <a href="https://nextjs.org/">
+  <a href="https://nextjs.org/" target="_blank">
     <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
   </a>
   <a href="https://www.gatsbyjs.com/" target="_blank">
-    <img src="https://img.shields.io/badge/gatsbyjs-663399.svg?style=for-the-badge&logo=gatsby&logoColor=white" alt="gatsby" />
-  </a>
-  <a href="https://jquery.com/" target="_blank">
-    <img src="https://img.shields.io/badge/jquery-0769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jquery"/> 
+    <img src="https://img.shields.io/badge/Gatsby-663399.svg?style=for-the-badge&logo=gatsby&logoColor=white" alt="Gatsby"/>
   </a>
   <a href="https://webpack.js.org" target="_blank">
-    <img src="https://img.shields.io/badge/webpack-8DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black"
-  alt="webpack"/>
+    <img src="https://img.shields.io/badge/Webpack-8DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" alt="Webpack"/>
   </a>
 </p>
 
+ 
+
 <h3 align="center">Backend : </h3>
-<p align="center">
+<p align="left">
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  </a>
   <a href="https://nodejs.org" target="_blank"> 
     <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"
       alt="nodejs"/> 
@@ -73,6 +68,10 @@
       alt="express" />
   <a href="https://hibernate.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/hibernate-59666C.svg?style=for-the-badge&logo=hibernate&logoColor=white" alt="hibernate " /> 
+    </a>
+  <a href="https://www.java.com" target="_blank"> 
+    <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white" 
+      alt="java"/> 
   </a>
     <a href="https://spring.io/" target="_blank"> 
       <img src="https://img.shields.io/badge/spring%20IOC-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="spring" /> 
