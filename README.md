@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="Cybersecurity"/>
   <img src="https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Artificial Intelligence"/>
 <h3 align="center">Frontend : </h3>
-<p align="left">
+<p align="center">
   <a href="https://www.w3.org/html/" target="_blank">
     <img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/>
   </a>
@@ -52,8 +52,8 @@
  
 
 <h3 align="center">Backend : </h3>
-<p align="left">
-  <a href="https://www.python.org" target="_blank">
+<p align="center">
+<a href="https://www.python.org" target="_blank">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   </a>
   <a href="https://nodejs.org" target="_blank"> 
