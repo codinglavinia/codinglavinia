@@ -49,5 +49,30 @@
 ![JetBrains](https://img.shields.io/badge/JetBrains-1E90FF?style=for-the-badge&logo=jetbrains&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-1E90FF?style=for-the-badge&logo=postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-1E90FF?style=for-the-badge&logo=linux&logoColor=white)
+<p align="left">📫 <strong>Contact</strong>:
 
+I'm always interested in discussing new projects and opportunities!
+
+📧 Email: <a href="mailto:codinglavinia@proton.me">[codinglavinia@proton.me](mailto:codinglavinia@proton.me)</a><br>
+🐙 GitHub: <a href="https://github.com/codinglavinia">@codinglavinia</a><br>
+💼 LinkedIn: <a href="https://www.linkedin.com/in/laviniabdev">linkedin.com/in/laviniabdev</a>
+
+</p>
+
+
+
+
+ <p align = "center">
+<img src = "https://komarev.com/ghpvc/?username=codinglavinia&style=plastic&color=blueviolet" alt = "Profile Views"/>
+
+ 
+<p align="center">
+<a href="https://github.com/codinglavinia">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=codinglavinia&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=codinglavinia&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</div>
+
+ 
+<p align="center"> ⭐ <strong>Do consider giving a star to my repositories!</strong>⭐
 
