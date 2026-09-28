@@ -12,7 +12,7 @@
   
 ---
 
- ## My Tech Stack :
+ ## 💻My Tech Stack : <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 
 ### Frontend :
 ![HTML5](https://img.shields.io/badge/HTML5-1E90FF?style=for-the-badge&logo=html5&logoColor=white)
