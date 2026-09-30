@@ -1,6 +1,6 @@
 <!-- Please consider giving a star to the repository on my GitHub profile. -->
 
-<!-- ==================== HEADER ==================== -->
+<!-- ==================== Header ==================== -->
 
 <div align="center">
 
@@ -8,7 +8,7 @@
 
 </div>
 
-<!-- ==================== ABOUT ME ==================== -->
+<!-- ==================== the about me section ==================== -->
 
 <h2 align="center">👩‍💻About Me :</h2>
 
@@ -29,7 +29,7 @@
   Geospatial Analysis and Remote Sensing</strong> to build robust and meaningful solutions.
 </p>
 
-<!-- ==================== CONNECT ==================== -->
+<!-- ==================== connect-reach out to me ==================== -->
 
 <h2 align="center">📫 Let's Connect : </h2>
 
@@ -45,7 +45,7 @@
 <br>
 
 <p align="center">
-  📧 <strong>Primary Proton Mail</strong> ·
+  📧 <strong> Proton Mail</strong> ·
   <a href="mailto:codinglavinia@proton.me">codinglavinia@proton.me</a>
   <br>
   📧 <strong>Gmail</strong> ·
@@ -58,7 +58,7 @@
   <a href="https://www.linkedin.com/in/laviniabdev">laviniabdev</a>
 </p>
 
-<!-- ==================== TECH STACK ==================== -->
+<!-- ==================== My tech stack ==================== -->
 
 <h2 align="center">💻 My Tech Stack :</h2>
 
@@ -110,7 +110,7 @@
   <img src="https://img.shields.io/badge/Linux-00B4FF?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/>
 </p>
 
-<!-- ==================== GITHUB STATS ==================== -->
+<!-- ==================== Github statistics ==================== -->
 
 
 <p align="center">
@@ -124,7 +124,7 @@
   </a>
 </p>
 
-<!-- ==================== SUPPORT ==================== -->
+<!-- =========== give a star to support my work ==================== -->
 
 <br>
 
