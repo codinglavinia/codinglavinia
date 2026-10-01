@@ -1,6 +1,6 @@
 <!-- Please consider giving a star to the repository on my GitHub profile. -->
 
-<!-- ==================== Header ==================== -->
+<!-- ==================== header ==================== -->
 
 <div align="center">
 
@@ -11,28 +11,12 @@
 <!-- ==================== the about me section ==================== -->
 
 <h2 align="center">About Me :</h2>
-
 <p align="center">
-  Hello, I am <strong>Lavinia</strong> a Full Stack Developer with 
-  <strong>Technical Support Engineer</strong> background, counting with more than 4 years of experience I have honed my analytical, troubleshooting and problem-solving skills.
+I am Lavinia Bacaru, a Full-Stack Software Developer with over four years of experience in technical support engineering, problem-solving, and software architecture.
 </p>
 
-<p align="center">
-  Today, I'm passionate about building <strong>secure, scalable and user-centric applications</strong>
-</p>
-
-<p align="center">
-  I'm continuously expanding my expertise in
-  <strong>Software Development, Cybersecurity, Artificial Intelligence,
-  Geospatial Analysis and Remote Sensing</strong> to deliver robust  solutions.
-</p>
-
-<!-- ==================== connect-reach out section ==================== -->
-
-<h2 align="center">Let's Connect : </h2>
-
-<p align="center">
-  Open to new projects, collaborations and professional opportunities.
+<p align="left">
+I build secure, scalable, and user-focused applications while continuously advancing my expertise in Software Development, Cybersecurity, AI, Geospatial Analysis and Remote Sensing .
 </p>
 
 <p align="center">
@@ -40,14 +24,22 @@
     <img src="https://img.shields.io/badge/HIRE%20ME-001F3F?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Hire Me"/>
   </a>
 </p>
- 
-<br>
+
+
+<!-- ==================== connect section ==================== -->
+
+<h2 align="center">Let's connect and collaborate: </h2>
 
 <p align="center">
-   <strong> 1º Mail</strong> :
+  I am open to new projects, collaborations and professional opportunities.
+</p>
+ 
+
+<p align="center">
+   <strong> e-mail</strong> :
   <a href="mailto:codinglavinia@proton.me">codinglavinia@proton.me</a>
   <br>
-   <strong>2ºGmail</strong> :
+   <strong>e-mail</strong> :
   <a href="mailto:codinglavinia@gmail.com">codinglavinia@gmail.com</a>
   <br>
    <strong>GitHub</strong> :
@@ -78,7 +70,7 @@
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-001F3F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-001F3F?style=for-the-badge&logo=hibernate&logoColor=white)
 
-### Databases & Cloud :
+### Databases and Cloud :
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-001F3F?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-001F3F?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-001F3F?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -88,7 +80,33 @@
 ![Docker](https://img.shields.io/badge/Docker-001F3F?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-001F3F?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-### Tools & Platforms :
+### Cloud and Hosting :
+![Azure](https://img.shields.io/badge/Azure-001F3F?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-001F3F?style=for-the-badge&logo=firebase&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-001F3F?style=for-the-badge&logo=netlify&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-001F3F?style=for-the-badge&logo=heroku&logoColor=white)
+
+### Testing :
+![Selenium](https://img.shields.io/badge/Selenium-001F3F?style=for-the-badge&logo=selenium&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-001F3F?style=for-the-badge&logo=junit5&logoColor=white)
+
+### Version Control and CI/CD :
+![Git](https://img.shields.io/badge/Git-001F3F?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-001F3F?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-001F3F?style=for-the-badge&logo=gitlab&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-001F3F?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-001F3F?style=for-the-badge&logo=jenkins&logoColor=white)
+
+### Preferred IDEs and Tools
+![Eclipse](https://img.shields.io/badge/Eclipse-001F3F?style=for-the-badge&logo=eclipse&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-001F3F?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![JetBrains](https://img.shields.io/badge/JetBrains-001F3F?style=for-the-badge&logo=jetbrains&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-001F3F?style=for-the-badge&logo=postman&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-001F3F?style=for-the-badge&logo=virtualbox&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-001F3F?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+
+### Tools and Platforms :
 ![Git](https://img.shields.io/badge/Git-001F3F?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-001F3F?style=for-the-badge&logo=github&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-001F3F?style=for-the-badge&logo=jenkins&logoColor=white)
