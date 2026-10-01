@@ -12,19 +12,19 @@
 
 <h2 align="center">About Me :</h2>
 <p align="center">
-I am Lavinia Bacaru, a Full-Stack Software Developer with over four years of experience in technical support engineering, problem-solving, and software architecture.
+I am Lavinia Bacaru,a Full-Stack Software Developer with a technical support engineering background, focused on solving software architecture challenges.
 </p>
 
 <p align="left">
-I build secure, scalable, and user-focused applications while continuously advancing my expertise in Software Development, Cybersecurity, AI, Geospatial Analysis and Remote Sensing .
+I build secure, scalable and user-focused applications while continuously advancing my expertise in Software Development, Cybersecurity, AI, Geospatial Analysis and Remote Sensing .
 </p>
 
-<p align="center">
-  <a href="mailto:codinglavinia@proton.me">
-    <img src="https://img.shields.io/badge/HIRE%20ME-001F3F?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Hire Me"/>
-  </a>
-</p>
+🎓 Education and Certifications :
 
+ **Higher  Degree in Multiplatform Application Development (Tecnico Superior DAM)** - Cross-platform application development <br>
+ **IT Automation with Python** - **Google** Certification <br>
+
+---
 
 <!-- ==================== connect section ==================== -->
 
@@ -33,7 +33,11 @@ I build secure, scalable, and user-focused applications while continuously advan
 <p align="center">
   I am open to new projects, collaborations and professional opportunities.
 </p>
- 
+ <p align="center">
+  <a href="mailto:codinglavinia@proton.me">
+    <img src="https://img.shields.io/badge/HIRE%20ME-001F3F?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Hire Me"/>
+  </a>
+</p>
 
 <p align="center">
    <strong> e-mail</strong> :
