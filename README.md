@@ -21,7 +21,7 @@ I build secure, scalable and user-focused applications while continuously advanc
 
 🎓 Education and Certifications :
 
- **Higher  Degree in Multiplatform Application Development (Tecnico Superior DAM)** - Cross-platform application development <br>
+ **Higher  Degree in Multiplatform Application Development (Tecnico Superior DAM)** <br>
  **IT Automation with Python** - **Google** Certification <br>
 
 ---
