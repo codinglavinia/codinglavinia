@@ -75,14 +75,12 @@ I build secure, scalable and user-focused applications while continuously advanc
 ![Hibernate](https://img.shields.io/badge/Hibernate-001F3F?style=for-the-badge&logo=hibernate&logoColor=white)
 
 ### Databases and Cloud :
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-001F3F?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-001F3F?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-001F3F?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-001F3F?style=for-the-badge&logo=firebase&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-001F3F?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-001F3F?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-001F3F?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-001F3F?style=for-the-badge&logo=kubernetes&logoColor=white)
+
 
 ### Cloud and Hosting :
 ![Azure](https://img.shields.io/badge/Azure-001F3F?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -129,6 +127,7 @@ I build secure, scalable and user-focused applications while continuously advanc
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=codinglavinia&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </div>
+
 
 <p align="center"> ⭐ <strong>Do consider giving a star to my repositories!</strong>⭐
 
