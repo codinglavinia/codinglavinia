@@ -1,7 +1,4 @@
 <!-- Please consider giving a star to the repository on my GitHub profile. -->
-
-<!-- ==================== header ==================== -->
-
 <div align="center">
 
   <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:00B4FF&height=250&section=header&text=Software%20Developer&fontSize=30&type=waving&fontColor=fefefe&animation=fadeIn" alt="Header"/>
@@ -22,7 +19,8 @@ I build secure, scalable and user-focused applications while continuously advanc
 🎓 Education and Certifications :
 
  **Higher  Degree in Multiplatform Application Development (Tecnico Superior DAM)** <br>
- **IT Automation with Python** - **Google** Certification <br>
+ **IT Automation with Python** – **Google Career Certificate**  
+**Google Cybersecurity Professional Certificate** –*(Completed)*
 
 ---
 
@@ -31,7 +29,7 @@ I build secure, scalable and user-focused applications while continuously advanc
 <h2 align="center">Let's connect and collaborate: </h2>
 
 <p align="center">
-  I am open to new projects, collaborations and professional opportunities.
+  I am open to interesting projects, collaborations and job opportunities.
 </p>
  <p align="center">
   <a href="mailto:codinglavinia@proton.me">
@@ -107,28 +105,9 @@ I build secure, scalable and user-focused applications while continuously advanc
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-001F3F?style=for-the-badge&logo=virtualbox&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-001F3F?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-
-### Tools and Platforms :
-![Git](https://img.shields.io/badge/Git-001F3F?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-001F3F?style=for-the-badge&logo=github&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-001F3F?style=for-the-badge&logo=jenkins&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-001F3F?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![JetBrains](https://img.shields.io/badge/JetBrains-001F3F?style=for-the-badge&logo=jetbrains&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-001F3F?style=for-the-badge&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-001F3F?style=for-the-badge&logo=linux&logoColor=white)
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=codinglavinia&style=plastic&color=001F3F" alt="Profile Views"/>
 </p>
 
 <p align="center">
-<a href="https://github.com/codinglavinia">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=codinglavinia&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=codinglavinia&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</div>
-
-
-<p align="center"> ⭐ <strong>Do consider giving a star to my repositories!</strong>⭐
-
----
+  ⭐ <strong>Do consider giving a star to my repositories!</strong> ⭐
